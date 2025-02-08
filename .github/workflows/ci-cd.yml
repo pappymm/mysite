@@ -5,6 +5,11 @@ on:
     branches:
       - main  # Trigger pipeline on push to the main branch
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest  # Use the latest Ubuntu environment
@@ -21,14 +26,12 @@ jobs:
           node-version: 16  # Use Node.js 16
 
       # Step 3: Install dependencies (e.g., html-proofer)
-      - name: Install html-proofer
-        run: |
-          npm install -g html-proofer
+      - name: Install dependencies
+        run: npm install
 
       # Step 4: Validate HTML files
       - name: Validate HTML
-        run: |
-          htmlproofer ./ --allow-hash-href --check-html --empty-alt-ignore
+        run: npx htmlproofer ./ --allow-hash-href --check-html --empty-alt-ignore
 
       # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
