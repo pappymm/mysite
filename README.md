@@ -11,7 +11,7 @@ Welcome to my personal website! This project showcases my skills, hobbies, and p
 - [License]
   
 ## About the Project
-This website serves as my online portfolio, highlighting my journey as an aspiring web developer. It includes:
+This website serves as a window to greater possibilities of an aspiring web developer. It includes:
 - A **Home** section with a welcoming message.
 - An **About Me** section that describes my skills, hobbies, and background.
 - A clean and responsive design.
