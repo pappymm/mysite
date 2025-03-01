@@ -8,7 +8,6 @@ Welcome to my personal website! This project showcases my skills, hobbies, and p
 - [Technologies Used]
 - [Setup and Deployment]
 - [How to Contribute]
-- [License]
   
 ## About the Project
 This website serves as a window to greater possibilities of an aspiring web developer. It includes:
@@ -72,8 +71,8 @@ Contributions are welcome! If you'd like to contribute to this project, follow t
 
 ## Contact ##
 If you have any questions or suggestions, feel free to reach out:
-Email: pappymusa@gmail.com
-GitHub: pappymm
-Linkedin: https://www.linkedin.com/in/musa-saleh-musa-89b635128/
+- **Email: pappymusa@gmail.com**
+- **GitHub: pappymm**
+- **Linkedin: https://www.linkedin.com/in/musa-saleh-musa-89b635128/**
 
 
