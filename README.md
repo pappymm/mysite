@@ -69,12 +69,11 @@ Contributions are welcome! If you'd like to contribute to this project, follow t
   
 5. Open a pull request and describe your changes.
 
-## License ##
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact ##
 If you have any questions or suggestions, feel free to reach out:
 Email: pappymusa@gmail.com
 GitHub: pappymm
+Linkedin: https://www.linkedin.com/in/musa-saleh-musa-89b635128/
 
 
